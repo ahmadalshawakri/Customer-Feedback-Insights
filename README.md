@@ -221,7 +221,6 @@ Customer-Feedback-Insights/
    - **Frontend UI**: [http://localhost:3000](http://localhost:3000)
    - **Backend API**: [http://localhost:8000](http://localhost:8000)
    - **Interactive API Docs (Swagger)**: [http://localhost:8000/docs](http://localhost:8000/docs)
-   - **Alternative API Docs (ReDoc)**: [http://localhost:8000/redoc](http://localhost:8000/redoc)
 
 ---
 
