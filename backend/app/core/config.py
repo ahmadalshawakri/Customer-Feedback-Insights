@@ -41,7 +41,7 @@ class Settings(BaseSettings):
 
     # ── GenAI ────────────────────────────────────────────────────────────────
     GENAI_PROVIDER: Literal["openai", "mock"] = "openai"
-    OPENAI_API_KEY: str = "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"
+    OPENAI_API_KEY: str = ""
     OPENAI_MODEL: str = "gpt-4o-mini"
 
     # ── CORS ─────────────────────────────────────────────────────────────────
