@@ -118,7 +118,7 @@ The system enforces permissions at both the **FastAPI dependency level** and the
 ## Project Structure
 
 ```
-pwc-case-study/
+Customer-Feedback-Insights/
 ├── .env.example                  # Environment configuration template
 ├── docker-compose.yml            # Multi-container orchestration (FastAPI + Next.js)
 ├── README.md                     # Project documentation
@@ -203,7 +203,7 @@ pwc-case-study/
 1. **Clone the repository and enter the directory**:
    ```bash
    git clone <repo-url>
-   cd pwc-case-study
+   cd Customer-Feedback-Insights
    ```
 
 2. **Create the environment file**:
