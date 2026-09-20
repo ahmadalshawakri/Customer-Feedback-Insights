@@ -1,0 +1,10 @@
+# pyrefly.toml — Pyrefly type checker configuration
+# Tells Pyrefly to use the project's virtual environment so it can
+# resolve third-party imports like fastapi, sqlmodel, pydantic, etc.
+
+[python]
+# Point at the venv Python — adjust path if you rename .venv
+python_interpreter = ".venv/bin/python"
+
+[import_discovery]
+search_path = [".venv/lib/python3.13/site-packages"]
